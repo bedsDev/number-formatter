@@ -1,0 +1,33 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "this is my test package for publication",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bedsDev/number-formatter.git"
+  },
+  "keywords": [
+    "first",
+    "test",
+    "package",
+    "of",
+    "nodes"
+  ],
+  "author": "Dennis Wu <shaopeng.wu@beds.ac.uk> (http://www.beds.ac.uk)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bedsDev/number-formatter/issues"
+  },
+  "homepage": "https://github.com/bedsDev/number-formatter#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
