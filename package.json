@@ -1,14 +1,14 @@
 {
   "name": "number-formatter-wumk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "this is my test package for publication",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --reporter nyan"
+    "test": "for %f in (test\\*) do echo %f & node %f "
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bedsDev/number-formatter.git"
+    "url": "https://github.com/bedsDev/number-formatter-wumk.git"
   },
   "keywords": [
     "first",
